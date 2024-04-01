@@ -1,14 +1,14 @@
-# ELLIE
+# CYBER-MD
 1.0.0
 #### STEPS FOR DEPLOYING
 FORK REPO
 
-[FORK](https://github.com/khadherinc/ELLIE/fork)
+[FORK](https://github.com/darkewing/CYBER--MD/fork)
 
 
 #### SCAN QR CODE
 
-Scan and Upload the `creds.json` to ***KHADHERINC-SESSION*** Folder
+Scan and Upload the `creds.json` to ***CYBER-SESSION*** Folder
     <br>
 <a href='https://replit.com/@cvqwkzc64y/ELLIE-QR' target="_blank"><BR><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
@@ -20,7 +20,7 @@ Scan and Upload the `creds.json` to ***KHADHERINC-SESSION*** Folder
 
 2. Now Deploy
     <br>
-<a href='https://heroku.com/deploy?template=https://github.com/khadherinc/ELLIE' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://heroku.com/deploy?template=https://github.com/darkewing/CYBER--MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 #### DEPLOY TO CODESPACE
@@ -70,4 +70,4 @@ Scan and Upload the `creds.json` to ***KHADHERINC-SESSION*** Folder
 - This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
 - I am not responsible for banning your account.
 - Use at your own risk by keeping this warning in mind.
-- This is a fully free repo if you are ```editing``` or ```copying``` any thing from these repo, give credits to [KHADHERINC](https://github.com/khadherinc)
+- This is a fully free repo if you are ```editing``` or ```copying``` any thing from these repo, give credits to [KHADHERINC](https://github.com/darkewing)
