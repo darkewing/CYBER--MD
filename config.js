@@ -24,7 +24,7 @@ global.OwnerName = "CYBER-DEXTER";
 global.BotName = "CYBER-MD";
 global.packname = "CYBER-MD";                             //Do not change.
 global.author = "By: CYBER-DEXTER";                               //Do not change.
-global.BotSourceCode = "https://github.com/khadherinc/ELLIE"; //Do not change.
+global.BotSourceCode = "https://github.com/darkewing/CYBER--MD"; //Do not change.
 global.SupportGroupLink = "https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk"; 
 
 
