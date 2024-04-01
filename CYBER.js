@@ -5930,7 +5930,7 @@ let aimel ='https://wallpapercave.com/wp/wp12002210.jpg'
                 title: "ELLIE",
                 body: "Best WhatsApp Bot",
                 thumbnailUrl: aimel,
-                sourceUrl: 'https://chat.whatsapp.com/L4UmJhLe12C8fOUob2GsNH',
+                sourceUrl: 'https://chat.whatsapp.com/CsfiAUpdgsH3HxgGOMDXtj',
                 mediaType: 1,
                 renderLargerThumbnail: true
                 }}})
@@ -5978,7 +5978,7 @@ let antil ='https://wallpapercave.com/wp/wp12002210.jpg'
                 title: "ELLIE",
                 body: "Best WhatsApp Bot",
                 thumbnailUrl: antil,
-                sourceUrl: 'https://chat.whatsapp.com/L4UmJhLe12C8fOUob2GsNH',
+                sourceUrl: 'https://chat.whatsapp.com/CsfiAUpdgsH3HxgGOMDXtj',
                 mediaType: 1,
                 renderLargerThumbnail: true
                 }}})
@@ -6027,7 +6027,7 @@ let economyl ='https://wallpapercave.com/wp/wp12002210.jpg'
                 title: "ELLIE",
                 body: "Best WhatsApp Bot",
                 thumbnailUrl: economyl,
-                sourceUrl: 'https://chat.whatsapp.com/L4UmJhLe12C8fOUob2GsNH',
+                sourceUrl: 'https://chat.whatsapp.com/CsfiAUpdgsH3HxgGOMDXtj',
                 mediaType: 1,
                 renderLargerThumbnail: true
                 }}})
@@ -6075,7 +6075,7 @@ let converterl ='https://wallpapercave.com/wp/wp12002210.jpg'
                 title: "ELLIE",
                 body: "Best WhatsApp Bot",
                 thumbnailUrl: converterl,
-                sourceUrl: 'https://chat.whatsapp.com/L4UmJhLe12C8fOUob2GsNH',
+                sourceUrl: 'https://chat.whatsapp.com/CsfiAUpdgsH3HxgGOMDXtj',
                 mediaType: 1,
                 renderLargerThumbnail: true
                 }}})
@@ -6141,7 +6141,7 @@ let downloaderl ='https://wallpapercave.com/wp/wp12002210.jpg'
                 title: "ELLIE",
                 body: "Best WhatsApp Bot",
                 thumbnailUrl: downloaderl,
-                sourceUrl: 'https://chat.whatsapp.com/L4UmJhLe12C8fOUob2GsNH',
+                sourceUrl: 'https://chat.whatsapp.com/CsfiAUpdgsH3HxgGOMDXtj',
                 mediaType: 1,
                 renderLargerThumbnail: true
                 }}})
@@ -6206,7 +6206,7 @@ let reactionl ='https://wallpapercave.com/wp/wp12002210.jpg'
                 title: "ELLIE",
                 body: "Best WhatsApp Bot",
                 thumbnailUrl: reactionl,
-                sourceUrl: 'https://chat.whatsapp.com/L4UmJhLe12C8fOUob2GsNH',
+                sourceUrl: 'https://chat.whatsapp.com/CsfiAUpdgsH3HxgGOMDXtj',
                 mediaType: 1,
                 renderLargerThumbnail: true
                 }}})
@@ -6260,7 +6260,7 @@ let miscl ='https://wallpapercave.com/wp/wp12002210.jpg'
                 title: "ELLIE",
                 body: "Best WhatsApp Bot",
                 thumbnailUrl: miscl,
-                sourceUrl: 'https://chat.whatsapp.com/L4UmJhLe12C8fOUob2GsNH',
+                sourceUrl: 'https://chat.whatsapp.com/CsfiAUpdgsH3HxgGOMDXtj',
                 mediaType: 1,
                 renderLargerThumbnail: true
                 }}})
@@ -6304,7 +6304,7 @@ let gamesl ='https://wallpapercave.com/wp/wp12002210.jpg'
                 title: "ELLIE",
                 body: "Best WhatsApp Bot",
                 thumbnailUrl: gamesl,
-                sourceUrl: 'https://chat.whatsapp.com/L4UmJhLe12C8fOUob2GsNH',
+                sourceUrl: 'https://chat.whatsapp.com/CsfiAUpdgsH3HxgGOMDXtj',
                 mediaType: 1,
                 renderLargerThumbnail: true
                 }}})
@@ -6354,7 +6354,7 @@ let animel ='https://wallpapercave.com/wp/wp12002210.jpg'
                 title: "ELLIE",
                 body: "Best WhatsApp Bot",
                 thumbnailUrl: animel,
-                sourceUrl: 'https://chat.whatsapp.com/L4UmJhLe12C8fOUob2GsNH',
+                sourceUrl: 'hhttps://chat.whatsapp.com/CsfiAUpdgsH3HxgGOMDXtj',
                 mediaType: 1,
                 renderLargerThumbnail: true
                 }}})
@@ -6406,7 +6406,7 @@ let stalkerl ='https://wallpapercave.com/wp/wp12002210.jpg'
                 title: "ELLIE",
                 body: "Best WhatsApp Bot",
                 thumbnailUrl: stalkerl,
-                sourceUrl: 'https://chat.whatsapp.com/L4UmJhLe12C8fOUob2GsNH',
+                sourceUrl: 'https://chat.whatsapp.com/CsfiAUpdgsH3HxgGOMDXtj',
                 mediaType: 1,
                 renderLargerThumbnail: true
                 }}})
@@ -6662,7 +6662,7 @@ let stalkerl ='https://wallpapercave.com/wp/wp12002210.jpg'
                 title: "CYBER-MD",
                 body: "Best WhatsApp Bot",
                 thumbnailUrl: helpmenu54,
-                sourceUrl: 'https://chat.whatsapp.com/L4UmJhLe12C8fOUob2GsNH',
+                sourceUrl: 'https://chat.whatsapp.com/CsfiAUpdgsH3HxgGOMDXtj',
                 mediaType: 1,
                 renderLargerThumbnail: true
                 }}})
