@@ -1,8 +1,8 @@
 
 {
-    "name": "ELLIE",
+    "name": "CYBER--MD",
     "description": "A whatsApp bot based on Baileysjs linrary (Ts+Js) with Multi Device support",
-    "repository": "https://github.com/khadherinc/ELLIE",
+    "repository": "https://github.com/darkewing/CYBER--MD",
     "logo": "https://wallpapercave.com/wp/wp12002210.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
     "buildpacks": [
