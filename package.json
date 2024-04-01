@@ -12,7 +12,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/khadherinc/ELLIE.git"
+        "url": "git+https://github.com/darkewing/CYBER--MD.git"
     },
     "keywords": [
         "md-bot"
@@ -20,9 +20,9 @@
     "author": "KHADHER",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/khadherinc/ELLIE/issues"
+        "url": "https://github.com/darkewing/CYBER--MD/issues"
     },
-    "homepage": "https://github.com/khadherinc/ELLIE#readme",
+    "homepage": "https://github.com/darkewing/CYBER--MD#readme",
     "devDependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^10.0.1",
