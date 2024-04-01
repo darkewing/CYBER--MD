@@ -1,5 +1,5 @@
 {
-    "name": "CYBER-MD",
+    "name": "CYBER--MD",
     "version": "1.0.0",
     "description": "CYBER-MD is a WhatsApp multiDevice Bot based on A17 and Baileys written in Javascript.",
     "main": "index.js",
@@ -17,7 +17,7 @@
     "keywords": [
         "md-bot"
     ],
-    "author": "KHADHER",
+    "author": "CYBER-DEXTER",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/darkewing/CYBER--MD/issues"
